@@ -1,0 +1,10 @@
+__pycache__/
+
+fileZoneServer.json
+fileZoneServer.log
+
+fileZoneServer.spec
+build/
+dist/
+
+.idea
