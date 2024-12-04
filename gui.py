@@ -7,7 +7,7 @@ import multiprocessing
 import os
 import logging
 
-from PyQt5 import QtWidgets
+from PySide2 import QtWidgets
 
 from ftp_win import Ui_Dialog
 from log_win import Ui_Dialog as Log_Dialog

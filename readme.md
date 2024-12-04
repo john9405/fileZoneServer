@@ -1,7 +1,7 @@
 安装
 ```
 pip3 install pyftpdlib
-pip3 install pyqt5
+pip3 install pyside2
 ```
 
 启动
